@@ -1,0 +1,96 @@
+Número	 Bairro
+-------------------
+  0	Afogados
+  1	Espinheiro
+  2	Jaqueira
+  3	Graças
+  4	Parnamirim
+  5	Encruzilhada
+  6	Rosarinho
+  7	Arruda
+  8	Tamarineira
+  9	Mangabeira
+  10	Torre
+  11	Madalena
+  12	Derby
+  13	Boa vista
+  14	Soledade
+  15	Paissandu
+  16	Ilha do leite
+  17	Ilha do Retiro
+  18	Prado
+  19	Coelhos
+  20	Zumbi
+  21	Bomba do Hemetério
+  22	Água fria
+  23	Fundão
+  24	Cajueiro
+  25	Porto da Madeira
+  26	Linha do Tiro
+  27	Alto Santa Teresinha
+  28	Alto José Bonifácio
+  29	Morro da Conceição
+  30	Vasco da Gama
+  31	Casa Forte
+  32	Poço da Panela
+  33	Santana
+  34	Casa Amarela
+  35	Alto do Mandu
+  36	Cordeiro
+  37	Iputinga
+  38	Beberibe
+  39	Dois Unidos
+  40	Nova Descoberta
+  41	Brejo de Beberibe
+  42	Brejo da Guabiraba
+  43	Corrego do Jenipapo
+  44	Macaxeira
+  45	Bongi
+  46	Mustardinha
+  47	Torrões
+  48	San Martin
+  49	Mangueira
+  50	Aflitos
+  51	Santo Antonio
+  52	São Jose
+  53	Ilha Joana Bezerra
+  54	Cabanga
+  55	Campina do Barreto
+  56	Peixinhos
+  57	Torreão
+  58	Santo Amaro
+  59	Recife Antigo
+  60	Brasilia Teimosa
+  61	Pina
+  62	Boa Viagem
+  63	Imbiribeira
+  64	Ipsep
+  65	Ibura
+  66	Jordão
+  67	Jiquiá
+  68	Estância
+  69	Areias
+  70	Caçote
+  71	Curado
+  72	Jardim São Paulo
+  73	Engenho do Meio
+  74	Barro
+  75	COHAB
+  76	Sancho
+  77	Tejipió
+  78	Coqueiral
+  79	Totó
+  80	Cidade Universitária
+  81	Várzea
+  82	Monteiro
+  83	Apipucos
+  84	Dois Irmãos
+  85	Sitio dos Pintos
+  86	Caxangá
+  87	Alto José do Pinho
+  88	Campo Grande
+  89	Hipódromo
+  90	Ponto de Parada
+  91	Pau Ferro
+  92	Guabiraba
+  93	Passarinho
